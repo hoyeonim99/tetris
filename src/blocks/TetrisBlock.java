@@ -5,7 +5,6 @@ import logic.Board;
 
 import java.awt.*;
 import java.util.*;
-import java.util.List;
 
 //four 'bricks' come together to compose a '(Tetris) block'
 public abstract class TetrisBlock {
